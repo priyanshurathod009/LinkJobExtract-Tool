@@ -9,7 +9,7 @@ A Python script for scraping job listings from LinkedIn using the `linkedin_jobs
 - Saves the collected job data to an CSV file.
 - Supports custom directory paths for saving the CSV file.
 
-![App Screenshot](https://github.com/priyanshurathod009/LinkJobExtract-Tool/blob/main/Image/Image01.jpeg?raw=true)
+![App Screenshot](https://github.com/priyanshurathod009/LinkJobExtract-Tool/blob/main/Image/Image02.png?raw=true)
 
 ## Requirements
 
